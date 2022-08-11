@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Office Elevator</string>
+    <string name="click_on_the_button">Поднять лифт на пятый этаж</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="rating_table">Rating table</string>
+    <string name="authorization">Authorization</string>
+</resources>
